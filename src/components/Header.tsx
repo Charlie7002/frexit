@@ -50,7 +50,7 @@ const Header: React.FC = () => {
 						<li>
 							<Link
 								href="#contact"
-								className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors"
+								className="text-white bg-blue-800 hover:bg-blue-600 px-8 py-3 rounded-full transition-colors"
 							>
 								Contact
 							</Link>
@@ -106,7 +106,7 @@ const Header: React.FC = () => {
 						<li>
 							<Link
 								href="#contact"
-								className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit"
+								className="text-black bg-blue-400 hover:bg-blue-200 px-5 py-2 rounded-full block w-fit"
 								onClick={toggleMenu}
 							>
 								Contactez-nous

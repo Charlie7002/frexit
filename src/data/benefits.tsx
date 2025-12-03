@@ -40,7 +40,7 @@ export const benefits: IBenefit[] = [
 				icon: <FiActivity size={26} />,
 			},
 		],
-		imageSrc: '/images/mockup-1.webp',
+		imageSrc: '/images/illu1.avif',
 	},
 	{
 		title: 'Réseaux & Connectivité',
@@ -68,7 +68,7 @@ export const benefits: IBenefit[] = [
 				icon: <FiTool size={26} />,
 			},
 		],
-		imageSrc: '/images/mockup-2.webp',
+		imageSrc: '/images/illu11.jpeg',
 	},
 	{
 		title: 'Cybersécurité',
@@ -97,7 +97,7 @@ export const benefits: IBenefit[] = [
 				icon: <FiUsers size={26} />,
 			},
 		],
-		imageSrc: '/images/mockup-1.webp',
+		imageSrc: '/images/illu5.jpg',
 	},
 	{
 		title: 'Bureautique & Postes de travail',
@@ -125,7 +125,7 @@ export const benefits: IBenefit[] = [
 				icon: <FiUsers size={26} />,
 			},
 		],
-		imageSrc: '/images/mockup-2.webp',
+		imageSrc: '/images/illu6.jpg',
 	},
 	{
 		title: 'Software & Développement',
@@ -153,7 +153,7 @@ export const benefits: IBenefit[] = [
 				icon: <FiPhoneCall size={26} />,
 			},
 		],
-		imageSrc: '/images/mockup-1.webp',
+		imageSrc: '/images/illu2.jpg',
 	},
 	{
 		title: 'Communication & Collaboration',
@@ -181,6 +181,6 @@ export const benefits: IBenefit[] = [
 				icon: <FiShield size={26} />,
 			},
 		],
-		imageSrc: '/images/mockup-2.webp',
+		imageSrc: '/images/illu8.jpeg',
 	},
 ]
