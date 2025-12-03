@@ -8,6 +8,6 @@ export const siteDetails = {
 	},
 	language: 'fr-fr',
 	locale: 'fr-FR',
-	siteLogo: `${process.env.BASE_PATH || ''}/images/logo2OK.png`,
+	siteLogo: `${process.env.BASE_PATH || ''}/images/logo2ok.png`,
 	googleAnalyticsId: '',
 }
