@@ -25,6 +25,6 @@ export const faqs: IFAQ[] = [
 	{
 		question: 'Comment vous contacter rapidement ?',
 		answer:
-			'Par email à contact@frexit.fr ou au 06 95 84 21 79 pour échanger sur votre besoin ou une urgence.',
+			'Par email à contact@frex-it.fr ou au 06 95 84 21 79 pour échanger sur votre besoin ou une urgence.',
 	},
 ]
