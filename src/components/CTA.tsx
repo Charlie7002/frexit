@@ -23,7 +23,7 @@ const CTA: React.FC = () => {
 								href={ctaDetails.appStoreUrl}
 								className="bg-white text-black px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors"
 							>
-								contact@frexit.fr
+								contact@frex-it.fr
 							</a>
 							<a
 								href={ctaDetails.googlePlayUrl}
